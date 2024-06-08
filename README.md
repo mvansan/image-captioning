@@ -1,1 +1,1 @@
-# image-captioning
+# Introduction to AI project
